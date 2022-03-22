@@ -1,0 +1,7 @@
+div#frame {
+    background: url(corkboard.jpg) no-repeat;
+    width: 800px;
+    height: 600px;
+    padding-top: 35px;
+    padding-left: 35px;
+}
